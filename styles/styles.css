@@ -81,6 +81,11 @@ header {
   color: white;
 }
 
+footer {
+  background-color: black;
+  color: red;
+}
+
 p {
   color: red !important;
   font-size: 30px;
