@@ -79,6 +79,7 @@ div {
 header {
   background-color: purple;
   color: white;
+  display: flex;
 }
 
 footer {
