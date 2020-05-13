@@ -1,0 +1,86 @@
+/* body {
+  color: red;
+  background-color: bisque;
+}
+
+.highlight {
+  background-color: yellow;
+} */
+
+/* input[type="email"][name=""] {
+
+} */
+
+/* p:hover {
+  background-color: yellow;
+}
+*/
+
+/* p::selection {
+  background-color: yellow;
+}
+
+p::before {
+  content: "BEFORE";
+  color: red;
+}
+
+p::after {
+  content: "AFTER";
+  color: red;
+}
+
+ul > li {
+  padding: 15px;
+} */
+
+/* ul li li {
+  color: green;
+} */
+
+/* .page-header .search {
+
+} */
+
+/* a:hover {
+  background-color: blue;
+}
+
+a:focus {
+  background-color: purple;
+}
+
+div {
+  width: calc(50% - 15px);
+} */
+
+/* 0, 1, 2, 3, 4, 5, 6
+
+0 2 4 6
+1 3 5 7 */
+/* li:nth-child(2n+1) {
+  background-color: orange;
+} */
+
+/* .product-list {
+
+}
+
+.product-list .product--title,
+.product-list .product--subtitle {
+
+}
+
+.product-list .product--image {} */
+
+/* .product-list .product--cta {
+} */
+
+p {
+  color: red !important;
+  font-size: 30px;
+}
+
+.special {
+  color: black !important;
+}
