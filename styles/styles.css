@@ -76,6 +76,11 @@ div {
 /* .product-list .product--cta {
 } */
 
+header {
+  background-color: red;
+  color: white;
+}
+
 p {
   color: red !important;
   font-size: 30px;
